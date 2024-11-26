@@ -134,3 +134,11 @@ With a strong foundation in data analysis, computer science, and hands-on cybers
         - Enhanced threat visualization and response capabilities with custom dashboards.
 
 
+## Technical Skills
+* Windows, Linux, MacOS, Firewalls, IDS, IPS, Docker, VMware, Cloud Computing, Active Directory, SIEM, Chronicle, Snort, Cisco, CVSS, OWASP, Synology DSM, Microsoft Office Suite, C/++, Python, SQL, Bash
+
+## Protocols 
+* TCP/IP, DNS, VPN, Proxy, DHCP, IMAP, POP3, SMTP
+
+## Soft Skills 
+* Regulatory Compliance, Security Hardening, Incident Response, OSINT, Help Desk, Emotional Intelligence, Leadership
