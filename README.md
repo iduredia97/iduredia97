@@ -2,7 +2,6 @@
 <a href="https://linkedin.com/in/iduseredia"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a self-taught and highly motivated cyber security enthusiast. I enjoy solving problems that require me to use my background and new perspectives. My goal is to learn and expand my cybersecurity skill set so I can better protect people and their data. 
-Here’s a polished and professional description of your experience that highlights your accomplishments and skills:
 
 Since graduating in 2019 with a Bachelor’s degree in Finance, I have gained extensive professional experience working in two distinct roles that have significantly honed my technical and leadership competencies.
 
