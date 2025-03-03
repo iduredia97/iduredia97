@@ -9,13 +9,13 @@ In my first role as a Data Analyst, I specialized in interpreting complex datase
 
 In my second role, I transitioned into a leadership position, overseeing a multidisciplinary team of analysts that included IT operations professionals, product design teams, system administrators, and LMS specialists. This role involved coordinating cross-functional teams, optimizing workflows, and ensuring the successful delivery of strategic initiatives.
 
-Additionally, I have embarked on a passion project, founding and developing my own eLearning platform. As part of this endeavor, I established and led a dedicated learning and development team to conduct needs assessments and instructional design. Together, we created dynamic eLearning resources tailored to a youthful demographic, leveraging blended learning systems to upskill youth across the African diaspora. This project reflects my commitment to driving impactful educational solutions and empowering underserved communities through innovative technologies and methodologies.
+With this working experience, I have since embarked on a passion project, founding and developing my own eLearning platform dedicated to documenting African History and providing educational resources for young Africans on the continent and across the diaspora. As part of this endeavor, I established and led a dedicated learning and development team to conduct needs assessments and instructional design. Together, we created dynamic eLearning resources tailored to a youthful demographic, leveraging blended learning systems to upskill youth across the African diaspora. This project reflects my commitment to driving impactful educational solutions and empowering underserved communities through innovative technologies and methodologies.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Having earned a Bachelors Degree in Finance, I have seen firsthand the impact of technological breakthroughs in business and thus developed a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
-With a strong foundation in data analysis, computer science, and hands-on cybersecurity projects, I am passionate about leveraging my skills in threat detection, incident response, and security automation to protect organizational assets. My goal is to contribute as a Tier 1 Analyst in a Security Operations Center (SOC), where I can apply my expertise in SIEM tools, scripting, and log analysis to identify and mitigate security threats effectively. 
+With a strong foundation in data analysis, computer science, and hands-on cybersecurity projects, I am passionate about leveraging my skills in threat detection, incident response, and security automation to protect organizational assets. My goal is to contribute organizations where I can apply my expertise in data analystics, finiancial modelling, SIEM tools, scripting, and log analysis to aid organizational capacity & improve internal processes while identifying and mitigating security threats effectively. 
 
 ## Skills
 
