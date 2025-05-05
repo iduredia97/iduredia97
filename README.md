@@ -15,7 +15,7 @@ Having earned a Bachelors Degree in Finance, I have seen firsthand the impact of
 
 ## Objective
 
-With a strong foundation in data analysis, computer science, and hands-on cybersecurity projects, I am passionate about leveraging my skills in threat detection, incident response, and security automation to protect organizational assets. My goal is to contribute organizations where I can apply my expertise in data analystics, finiancial modelling, SIEM tools, scripting, and log analysis to aid organizational capacity & improve internal processes while identifying and mitigating security threats effectively. 
+My name is Idus. I'm proud to have developed a strong foundation in data analysis, computer science, and hands-on cybersecurity projects, I am passionate about leveraging my skills in threat detection, incident response, and security automation to protect organizational assets. My goal is to contribute organizations where I can apply my expertise in data and operations analystics, SIEM tools, scripting, and log analysis to aid organizational capacity & improve internal processes while identifying and mitigating security threats effectively. 
 
 ## Skills
 
