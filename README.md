@@ -1,21 +1,18 @@
-# Hello Friends, Colleagues and Students, I'm Idus 
+# [Hi friends, I'm Idus! Cybersecurity Professional & Business Analyst](https://github.com/iduredia97)
+
+ 
+## Welcome to my Cybersecurity Professional Portfolio
 <a href="https://linkedin.com/in/iduseredia"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Professional Summary 🛠️📈
+Hello! I’m Idus Eredia, an information security enthusiast, I'm on a dedicated cybersecurity learning journey, eager to hone my expertise, expand my skill set, and strengthen my ability to protect people and their data diligently.
 
-I am a self-taught and highly motivated cyber security enthusiast. I enjoy solving problems that require me to use my background and new perspectives. My goal is to learn and expand my cybersecurity skill set so I can better protect people and their data. 
+I currently work as a Business Analyst at Sapphital Learning, where I manage website development using CMS tools, administer an LMS with 100,000+ users, and serve as a bridge between clients and product/tech teams. Additionally, I serve as an IT Analyst at New York Medical LLC, where I maintain and secure EHR systems, train clinic staff on software and security protocols, analyze workflows for efficiency, and ensure HIPAA compliance while driving improvements in patient care and data protection. 
 
-Since graduating in 2019 with a Bachelor’s degree in Finance, I have gained extensive professional experience working in two distinct roles that have significantly honed my technical and leadership competencies.
-
-In my first role as a Data Analyst, I specialized in interpreting complex datasets using tools like SQL and Tableau, while also conducting advanced research to deliver actionable insights. This position allowed me to build a strong foundation in data visualization, analytics, and critical problem-solving.
-
-In my second role, I transitioned into a leadership position, overseeing a multidisciplinary team of analysts that included IT operations professionals, product design teams, system administrators, and LMS specialists. This role involved coordinating cross-functional teams, optimizing workflows, and ensuring the successful delivery of strategic initiatives.
-
-With this working experience, I have since embarked on a passion project, founding and developing my own eLearning platform dedicated to documenting African History and providing educational resources for young Africans on the continent and across the diaspora. As part of this endeavor, I established and led a dedicated learning and development team to conduct needs assessments and instructional design. Together, we created dynamic eLearning resources tailored to a youthful demographic, leveraging blended learning systems to upskill youth across the African diaspora. This project reflects my commitment to driving impactful educational solutions and empowering underserved communities through innovative technologies and methodologies.
-
-Having earned a Bachelors Degree in Finance, I have seen firsthand the impact of technological breakthroughs in business and thus developed a profound interest in technology and a dedication to solving complex problems.
+In this portfolio, you'll find a collection of my projects, relevant coursework, and other information that showcases my dedication to cybersecurity and continuous learning. I invite you to explore my work and see how I'm contributing to the ever-evolving field of IT.
 
 ## Objective
 
-My name is Idus. I'm proud to have developed a strong foundation in data analysis, computer science, and hands-on cybersecurity projects, I am passionate about leveraging my skills in threat detection, incident response, and security automation to protect organizational assets. My goal is to contribute organizations where I can apply my expertise in data and operations analystics, SIEM tools, scripting, and log analysis to aid organizational capacity & improve internal processes while identifying and mitigating security threats effectively. 
+I'm proud to have developed a strong foundation in data analysis, computer science, and hands-on cybersecurity projects. I am passionate about leveraging my skills in threat detection, incident response, and security automation to protect organizational assets. My goal is to contribute organizations where I can learn & apply my expertise in data and operations analystics, SIEM tools, scripting, and log analysis to aid organizational capacity & improve internal processes while identifying and mitigating security threats effectively. 
 
 ## Skills
 
@@ -81,7 +78,7 @@ My name is Idus. I'm proud to have developed a strong foundation in data analysi
     <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ (In Progress)" />
 </div>
 
-> **Note:** Actively self-studying for the CompTIA Security+, Network+, and A+ certifications, while leveraging the foundational skills and knowledge gained from the Northwestern University Cybersecurity Bootcamp.
+> **Note:** Actively self-studying for the CompTIA Security+, and Network+ certifications, while leveraging the foundational skills and knowledge gained from the Northwestern University Cybersecurity Bootcamp.
 
 
 ## Additional Projects
