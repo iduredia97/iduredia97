@@ -16,19 +16,18 @@ I'm proud to have developed a strong foundation in data analysis, computer scien
 
 ## Skills
 
-| **Skill**                                   | **Associated Project**                                                                                                                                               |
-|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **SIEM Implementation and Log Analysis**    | [Active Directory with Splunk Homelab](https://github.com/iduredia97/Security-Audit) *(Tools: Splunk, Windows Server, Ubuntu Server)*                                         |
-| **Hash Comparison for File Integrity**      | [File Hash Comparison Script](https://github.com/iduredia97/Comparing-Hashes) *(Tools: Python, hashlib)*                                                                     |
-| **Network Traffic Monitoring**              | [Network Attack Simulation and Analysis](https://github.com/iduredia97/Detection-Lab) *(Tools: Wireshark, Kali Linux, Splunk)*                                               |
-| **Security Automation with SOAR**           | [SOC Automation with Shuffle SOAR](https://github.com/iduredia97/SOC-Automation-Lab) *(Tools: Shuffle SOAR, TheHive, Cortex)*                                                |
-| **Incident Response and Threat Analysis**   | [Incident Report Investigation](https://github.com/iduredia97/Incident-Report-Analysis) *(Tools: Splunk, Windows Event Viewer, PowerShell)*                                  |
-| **Access Control and Authorization Analysis**| [Access Control Investigation](https://github.com/iduredia97/Access-Control-Investigation) *(Tools: Active Directory, Event Viewer, Python)*                                |
-| **Scripting for Threat Mitigation**         | [Python Script for IP Address Management](https://github.com/iduredia97/Updating-File-Of-IP-Addresses-With-Python) *(Tools: Python, JSON)*                                   |
-| **Automation of Authorization Workflows**   | [Authorization Management Automation](https://github.com/iduredia97/Managing-Authorization) *(Tools: Python, APIs)*                                                         |
-| **SQL for Security Analysis**               | [Database Filtering for Threat Detection](https://github.com/iduredia97/SQL-Database-Filtering-Using-AND-NOT-and-LIKE-Operators) *(Tools: SQL, SQLite)*                     |
-| **Incident Response Workflow Creation**     | [SOC Automation Workflow](https://github.com/iduredia97/SOC-Automation-Lab) *(Tools: Shuffle SOAR, TheHive)*                                                                |
-| **Case Management with TheHive**            | [SOC Case Management with TheHive](https://github.com/iduredia97/SOC-Automation-Lab) *(Tools: TheHive, Cortex)*                                                             |
+| **Skill**                          | **Associated Project**                                                                                                                                                     |
+|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **SIEM Implementation & Log Analysis** | [Active Directory with Splunk Homelab](https://github.com/iduredia97/Security-Audit) *(Tools: Splunk, Windows Server, Ubuntu Server – Implemented centralized log collection and analysis for AD environment)* |
+| **Network Design & Security Integration** | [Merged-Whisper Security Network Design](https://github.com/iduredia97/Merged-Whisper-Security-Network-Design-Security-Integration) *(Tools: Windows Server, pfSense, Splunk – Designed secure enterprise network with integrated monitoring and defense layers)* |
+| **Network Traffic Monitoring**     | [Network Attack Simulation and Analysis](https://github.com/iduredia97/Detection-Lab) *(Tools: Wireshark, Kali Linux, Splunk – Simulated malicious traffic to validate IDS/IPS rules and detection accuracy)* |
+| **SOC Automation (SOAR, Workflows, Case Management)** | [SOC Automation Lab](https://github.com/iduredia97/SOC-Automation-Lab) *(Tools: Shuffle SOAR, TheHive, Cortex – Automated incident triage, enriched threat intel, and built custom workflows for faster response)* |
+| **Incident Response & Threat Analysis** | [Incident Report Investigation](https://github.com/iduredia97/Incident-Report-Analysis) *(Tools: Splunk, Windows Event Viewer, PowerShell – Investigated suspicious account activity and created IR documentation)* |
+| **Access Control & Authorization** | [Access Control Investigation](https://github.com/iduredia97/Access-Control-Investigation) *(Tools: Active Directory, Event Viewer, Python – Audited role-based access and automated policy checks)* |
+| **Security Scripting & Automation** | [Python Script for IP Address Management](https://github.com/iduredia97/Updating-File-Of-IP-Addresses-With-Python) *(Tools: Python, JSON – Automated updates to IP lists for improved threat mitigation)* |
+| **Authorization Workflow Automation** | [Authorization Management Automation](https://github.com/iduredia97/Managing-Authorization) *(Tools: Python, APIs – Automated access request/approval workflows to reduce manual errors)* |
+| **SQL for Threat Detection**       | [Database Filtering for Threat Detection](https://github.com/iduredia97/SQL-Database-Filtering-Using-AND-NOT-and-LIKE-Operators) *(Tools: SQL, SQLite – Queried and filtered logs for anomaly detection)* |
+| **File Integrity Monitoring**      | [File Hash Comparison Script](https://github.com/iduredia97/Comparing-Hashes) *(Tools: Python, hashlib – Automated file integrity validation through hash comparison)* |
 
 
 ## Tools
@@ -67,8 +66,10 @@ I'm proud to have developed a strong foundation in data analysis, computer scien
 
 ### Completed Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate" />
-    <img src="https://img.shields.io/badge/-Northwestern_University_Cybersecurity_Bootcamp-4E2A84?&style=for-the-badge&logo=Northwestern&logoColor=white" alt="Northwestern University Cybersecurity Bootcamp" />
+  <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
+  <img src="https://img.shields.io/badge/-Northwestern_University_Cybersecurity_Bootcamp-4E2A84?&style=for-the-badge&logo=Northwestern&logoColor=white" alt="Northwestern University Cybersecurity Bootcamp" />
+  <img src="https://img.shields.io/badge/-Shields_Up_Cybersecurity_Job_Simulation-0052CC?&style=for-the-badge&logo=Forage&logoColor=white" alt="Shields Up: Cybersecurity Job Simulation" />
+  <img src="https://img.shields.io/badge/-Additional_Forage_Cybersecurity_Simulation-0052CC?&style=for-the-badge&logo=Forage&logoColor=white" alt="Forage Cybersecurity Job Simulation" />
 </div>
 
 ### In Progress
