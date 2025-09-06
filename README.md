@@ -6,6 +6,9 @@
 # Professional Summary 🛠️📈
 Hello! I’m Idus Eredia, an information security enthusiast, I'm on a dedicated cybersecurity learning journey, eager to hone my expertise, expand my skill set, and strengthen my ability to protect people and their data diligently.
 
+## 📄 View my resume [here](https://github.com/iduredia97/iduredia97/blob/main/IdusEredia%20CySec%20CV.pdf).
+
+
 I currently work as a Business Analyst at [Sapphital Learning](https://sapphital.com/), where I manage website development using CMS tools, administer an LMS with 100,000+ users, and serve as a bridge between clients and product/tech teams. Additionally, I serve as an IT Analyst at [New York Medical LLC](https://newyorkmedicalclinic.com/), where I maintain and secure EHR systems, train clinic staff on software and security protocols, analyze workflows for efficiency, and ensure HIPAA compliance while driving improvements in patient care and data protection. 
 
 In this portfolio, you'll find a collection of my projects, relevant coursework, and other information that showcases my dedication to cybersecurity and continuous learning. I invite you to explore my work and see how I'm contributing to the ever-evolving field of IT.
