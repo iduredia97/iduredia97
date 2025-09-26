@@ -8,14 +8,28 @@ Hello! I’m Idus Eredia, an information security enthusiast, I'm on a dedicated
 
 ## 📄 View my resume [here](https://github.com/iduredia97/iduredia97/blob/main/IdusEredia%20CySec%20CV.pdf).
 
+Since 2023, I have built a strong foundation in cybersecurity through focused study, hands-on labs, and industry certifications, with technical projects showcased on my GitHub portfolio. My practical experience includes internships and simulated SOC team exercises where I contributed to incident response, IAM, and monitoring tasks. Previously, as a Business Analyst at [Sapphital Learning](https://sapphital.com/), I managed website development with CMS tools, administered an LMS serving 100,000+ users, and served as a bridge between clients and technical teams. This combination of technical depth, analytical ability, and client-facing experience enables me to deliver value in cybersecurity operations while collaborating effectively across business and IT functions.
+<div>
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_8zGZom4u3JGbsmjkK_1754668310151_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-AIG_Cybersecurity_Simulation-003DA5?&style=for-the-badge&logo=aig&logoColor=white" alt="AIG Cybersecurity Simulation" />
+  </a>
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_8zGZom4u3JGbsmjkK_1754605131383_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Mastercard_Cybersecurity_Simulation-EB001B?&style=for-the-badge&logo=mastercard&logoColor=white" alt="Mastercard Cybersecurity Simulation" />
+  </a>
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gmf3ypEXBj2wvfQWC_ifobHAoMjQs9s6bKS_8zGZom4u3JGbsmjkK_1754670628534_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Tata_Cybersecurity_Simulation-4867AA?&style=for-the-badge&logo=tata&logoColor=white" alt="Tata Cybersecurity Simulation" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/WAK5V6W2UYRX" target="_blank">
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
+  </a>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ (In Progress)" />
+</div>
 
-I currently work as a Business Analyst at [Sapphital Learning](https://sapphital.com/), where I manage website development using CMS tools, administer an LMS with 100,000+ users, and serve as a bridge between clients and product/tech teams. Additionally, I serve as an IT Analyst at [New York Medical LLC](https://newyorkmedicalclinic.com/), where I maintain and secure EHR systems, train clinic staff on software and security protocols, analyze workflows for efficiency, and ensure HIPAA compliance while driving improvements in patient care and data protection. 
-
-In this portfolio, you'll find a collection of my projects, relevant coursework, and other information that showcases my dedication to cybersecurity and continuous learning. I invite you to explore my work and see how I'm contributing to the ever-evolving field of IT.
 
 ## Objective
+My goal is to join a forward-looking organization where I can continue learning and contribute expertise in SIEM tools, scripting, data analysis, and log monitoring to improve processes, reduce risk, and proactively mitigate security threats. 
 
-I'm proud to have developed a strong foundation in data analysis, computer science, and hands-on cybersecurity projects. I am passionate about leveraging my skills in threat detection, incident response, and security automation to protect organizational assets. My goal is to contribute organizations where I can learn & apply my expertise in data and operations analystics, SIEM tools, scripting, and log analysis to aid organizational capacity & improve internal processes while identifying and mitigating security threats effectively. 
+I am eager to apply my skills in threat detection, incident response, and security automation to protect organizational assets and strengthen resilience. 
 
 ## Skills
 
@@ -67,7 +81,7 @@ I'm proud to have developed a strong foundation in data analysis, computer scien
 
 ## Certifications and Training
 
-### Completed Certifications
+### Completed
 <div>
   <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certificate" />
   <img src="https://img.shields.io/badge/-Northwestern_University_Cybersecurity_Bootcamp-4E2A84?&style=for-the-badge&logo=Northwestern&logoColor=white" alt="Northwestern University Cybersecurity Bootcamp" />
@@ -142,3 +156,4 @@ I'm proud to have developed a strong foundation in data analysis, computer scien
 
 ## Soft Skills 
 * Regulatory Compliance, Security Hardening, Incident Response, OSINT, Help Desk, Emotional Intelligence, Leadership
+
