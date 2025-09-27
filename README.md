@@ -1,4 +1,4 @@
-# [Hi friends, I'm Idus! Cybersecurity Professional & Business Analyst](https://github.com/iduredia97)
+# [Welcome, I'm Idus! Cybersecurity Professional & Business Analyst](https://github.com/iduredia97)
 
  
 ## Welcome to my Cybersecurity Professional Portfolio
